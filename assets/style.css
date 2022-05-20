@@ -1,0 +1,14 @@
+* {
+  background-color: goldenrod;
+}
+
+button {
+  background-color: orangered;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+#number {
+  color: maroon;
+  font-size: 90px;
+}
